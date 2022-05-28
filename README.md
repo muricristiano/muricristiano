@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Murilo
-- 👨‍💻 I’m passionate about coding and I'm interest im becoming an expert in stacks as JS, CSS specially on REACT.js / REACT Native, NODE.js and Angular.js
+- 👨‍💻 I’m passionate about coding and I'm interest in mastering all the current core stacks as JS, CSS and specially on REACT.js / REACT Native, NODE.js and Angular.js
 - 🌱 I’m currently learning REACT Native / React.JS / Node.js and Angular.js. I have no final limit goal that I can reach, I'm always looking for the next challenge and learning. I'm passionate with the infinite process of learning and creating solution and enhancing society through coding. 
 - 📫 LinkedIn: linkedin.com/in/murilo-ribeiro-cristiano-371967229
 
