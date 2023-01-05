@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Murilo Cristiano
-- 👨‍💻 I’m passionate about coding, mastering the stacks JavaScript / React / Node.js / API's / Complex CSS Transitions & Animations.
+- 👨‍💻 I’m passionate about coding, mastering the stacks <b>JavaScript / React / Node.js / API's / Complex CSS Transitions & Animations. </b>
 - 🌱 Consistently gathering knowledge.
 - 📫 LinkedIn: https://www.linkedin.com/in/muricristiano/
