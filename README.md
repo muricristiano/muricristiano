@@ -10,4 +10,4 @@ I am a motivated individual with a passion for upgrading people's lives with tec
 Future
 I am a current student of WEB development at Anhanguera University and I am also taking specialized courses to enhance my skills and speed up my learning. In addition to my studies, I regularly participate in coding events with Rocketseat to further develop my skills and stay up-to-date with the latest technologies.
 
->> I am eager to connect with professionals that share my interests and values! I am always open to collaborate and share knowledge!
+I am eager to connect with professionals that share my interests and values! I am always open to collaborate and share knowledge!
